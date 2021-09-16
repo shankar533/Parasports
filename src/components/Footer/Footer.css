@@ -1,0 +1,35 @@
+.Footer-wrapper {
+    background-color: #251025;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.ssicons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    list-style: none;
+}
+
+.ssicons li {
+    padding: 1rem 1rem;
+    margin: 0.3rem 0.5rem;
+    font-size: 25px;
+}
+
+.ssicons li:hover {
+    color: #9b2335;
+    transition: 0.2s ease;
+}
+
+p {
+    color: white;
+    font-size: 10px;
+    margin-bottom: 0.5rem;
+}
+
+.icons a {
+    color: white;
+}
