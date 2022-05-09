@@ -17,7 +17,7 @@ function Footer() {
                     </a>
                 </li>
             </ul>
-            <p>NoCopyrights @2021 | website By Shankar</p>
+            <p>NoCopyrights @2021 | website By shankar yellappa</p>
         </div>
     )
 }
