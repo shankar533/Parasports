@@ -13,7 +13,7 @@ function Cards() {
                     <img src={front1} alt="image1" className="image-wrapper" />
                     <div className="text-wrapper">
                         <h2>
-                        Bhavinaben Patel (Table Tennis) - Silver
+                        Bhavinaben Patel (Ping Pong) - Silver
                         </h2>
                         <p> 
                         Table Tennis player Bhavinaben Patel opened India’s account at the games when he became only the second Indian woman to win a medal at the Paralympics
